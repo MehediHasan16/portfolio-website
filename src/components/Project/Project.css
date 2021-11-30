@@ -1,0 +1,27 @@
+.p-card{
+    width: 600px;
+    height: 400px;
+  
+  margin: 20px 10px ;
+  border: 2px solid rgb(236, 236, 236);
+  border-radius: 5px;
+  background-size: cover;
+}
+
+
+.p-browser{
+    height: 20px;
+    background-color:rgb(236, 236, 236);
+    display: flex;
+    align-items: center;
+}
+.p-circle{
+    width: 6px;
+    height: 6px;
+    border-radius: 50%;
+    background-color: white;
+}
+.p-img{
+    width: 100%;
+    overflow: hidden;
+}
